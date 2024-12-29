@@ -3,7 +3,7 @@
 ###
 
 <div align="right">
-  <img src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" alt="Pizza Ninjas GIF" width="200" height="200" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Pizza Ninjas GIF" width="200" height="200" />
   <p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 </div>
 
