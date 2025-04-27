@@ -1,4 +1,3 @@
-// code for readme
 <h2 align="left">Hi 👋! My name is Hrushikesh Sawant and I'm an Electronics student from IIIT-Bangalore</h2>
 
 ###
