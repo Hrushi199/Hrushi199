@@ -98,32 +98,6 @@ Passionate about **Hardware-Software Integration** | **Sensors** | **AI/ML**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" title="Figma" />
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrushi199&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushi199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrushi199&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrushi199&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<!-- ## 🎯 Current Focus -->
-<!-- - 🔭 Working on **IoT-based Smart Systems** and **AI/ML projects** -->
-<!-- - 🌱 Learning **Advanced Deep Learning** and **Computer Vision** -->
-<!-- - 👯 Looking to collaborate on **Open Source Hardware/Software projects** -->
-<!-- - 💡 Exploring **Edge Computing** and **Embedded AI** -->
-
----
 
 ## 💼 Let's Connect!
 <div align="center">
