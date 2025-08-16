@@ -9,8 +9,8 @@
 </div>
 
 ## 🎓 About Me
-**Electronics Engineering Student** at **IIIT-Bangalore** 🏛️  
-Passionate about **Hardware-Software Integration** | **Full-Stack Development** | **AI/ML**
+**Electronics and Communication Engineering Student** at **IIIT-Bangalore** 🏛️  
+Passionate about **Hardware-Software Integration** | **Sensors** | **AI/ML**
 
 ---
 
