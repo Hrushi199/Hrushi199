@@ -25,22 +25,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 
----
-
-## 📊 GitHub stats & Top languages
-<!-- Change `username=Hrushi199` to your GitHub username if needed -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrushi199&show_icons=true&theme=default&cache_seconds=86400" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushi199&layout=compact&theme=default&cache_seconds=86400" alt="Top languages" />
-</p>
-
----
-
-
-## 📫 Contact
+## 📫 Connect with me
 <p align="center">
   <a href="https://github.com/Hrushi199"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://in.linkedin.com/in/hrushikesh-sawant-9a5102286"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
