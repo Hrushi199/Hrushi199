@@ -1,5 +1,3 @@
-<!-- Replace `Hrushi199` below if your GitHub username is different -->
-
 # Hi — I'm **Hrushikesh Sawant** 👋
 
 <div align="center">
@@ -11,19 +9,15 @@
 ---
 
 ## 🔭 What I do
-- Design & prototype embedded systems (Arduino, ESP32, Raspberry Pi) with on-device ML.
-- Work on AI/ML for signal & sensor data (PyTorch / TensorFlow).
-- Build full-stack prototypes (React + FastAPI / Flask) for sensor-data pipelines.
+- Work on projects that blend electronics and machine learning together in order to have a greater impact.
+- Sometimes I work on frontend for hackathons.
+- Right now exploring HDL and trying to master Verilog.
 
 ## 🧰 Tech stack
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,arduino,matlab,python,cpp,c,js,ts,react,git,linux,vite" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Cadence-Logo.svg" alt="Cadence" width="100" height="40"/>
+</p>
 
 ## 📫 Connect with me
 <p align="center">
