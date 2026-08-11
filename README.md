@@ -11,7 +11,7 @@
 ## 🔭 What I do
 - Work on projects that blend electronics and machine learning together in order to have a greater impact.
 - Sometimes I work on frontend for hackathons.
-- Right now exploring HDL and trying to master Verilog.
+- Right now exploring HDL.
 
 ## 🧰 Tech stack
 <p align="center">
